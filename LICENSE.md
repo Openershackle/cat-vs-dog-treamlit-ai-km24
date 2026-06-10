@@ -1,4 +1,4 @@
-# 
+# Código aberto Cat vs Dog Classifier with PyTorch and Streamlit ferramentas. Com aprendizado por transferência e IA em nuvem — otimizado para máximo desempenho.
 
 
 
